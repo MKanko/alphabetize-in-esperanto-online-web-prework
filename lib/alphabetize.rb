@@ -13,7 +13,7 @@ end
 # and converting words in strings into elements in array and how
 # hierarchy of letters in alphabet are compared. So I had a vague 
 # idea of direction to solve this. I did the reading of the provided
-# resources, which I found to be useless as how to exactly implement.
+# resources which I found to be useless as to how exactly to implement.
 # But further research led me to a web page call Ruby Tips: Sort Methods
 # where I found the code above. So I literally implemented
 # the code and put in my variable "alph" to accomplish this.
@@ -24,4 +24,4 @@ end
 # what's happening and how it works to solve. Which I do.
 
 # For future reference, the step by step explanation is found at
-# 
+# http://tylermachen.github.io/2015/08/10/ruby-tips-sort-methods.html
