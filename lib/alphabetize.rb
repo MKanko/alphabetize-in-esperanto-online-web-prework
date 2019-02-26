@@ -14,4 +14,4 @@ end
 # hierarchy of letters in alphabet are compared. So I had a vague 
 # idea of direction to solve this. I did the reading of the provided
 # resources, which I found to be useless as how to exactly implement.
-# But further research led me to 
+# But further research led me to a web page call Ruby Tips
